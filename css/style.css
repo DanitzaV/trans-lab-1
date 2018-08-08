@@ -1,1 +1,41 @@
 /* YeyeYeee código aquí */
+
+.encabezado {
+    margin-top: 3em;
+
+}
+.img {
+    width: 6em;
+}
+body {
+    background-color: #3E3F41;
+    color: white;
+}
+#opciones .btn {
+    width: 100%;
+    /* margin-bottom: 1em; */
+}
+#opciones .col-12, .inputbipSaldo{
+    margin-top: 2em;
+}
+#opciones{
+   margin-top: 5em;
+}
+.fa-user-ninja{
+    font-size: 7em;
+}
+.contSaldo h4{
+    background-color: #F6A800;
+    color: black;
+    margin-bottom: 0;
+}
+.contSaldo p{
+    background-color: white;
+    color: black;
+    padding: 1em;
+}
+.optionsbips{
+    background-color: white;
+    color: black;
+    padding: 0.8em;
+}
